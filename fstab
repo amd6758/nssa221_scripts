@@ -1,0 +1,20 @@
+
+#
+# /etc/fstab
+# Created by anaconda on Fri Aug  7 14:10:00 2026
+#
+# Accessible filesystems, by reference, are maintained under '/dev/disk/'.
+# See man pages fstab(5), findfs(8), mount(8) and/or blkid(8) for more info.
+#
+# After editing this file, run 'systemctl daemon-reload' to update systemd
+# units generated from this file.
+#
+UUID=d4b7f563-eda5-4ea8-b008-85093303ef1e /                       xfs     defaults        0 0
+UUID=6e5603a5-ecbf-41f1-8a0e-ccb3d5ba7392 /boot                   xfs     defaults        0 0
+UUID=af750ca3-6d82-4d40-924f-f94a3626e6ef none                    swap    defaults        0 0
+UUID=4ea21704-151c-430d-877c-9b92eba23f82 /media/samba xfs defaults 0 0
+UUID=5a899074-542f-4fd0-8dc4-62a5041e046b /media/nfs1 xfs defaults 0 0
+UUID=e32640af-d58f-41b6-adba-223aad7024ac /media/nfs2 xfs defaults 0 0
+UUID=bf866e68-000b-4d54-8438-f0f189f1e46e /media/samba1 xfs defaults 0 0
+UUID=831262a0-5ebb-494f-b101-9ebbd7de5db6 /media/samba2 xfs defaults 0 0
+UUID=22cf7ba0-5177-44cd-a1ec-9d1c63cdcd8a /media/samba3 xfs defaults 0 0
