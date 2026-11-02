@@ -18,3 +18,5 @@ UUID=e32640af-d58f-41b6-adba-223aad7024ac /media/nfs2 xfs defaults 0 0
 UUID=bf866e68-000b-4d54-8438-f0f189f1e46e /media/samba1 xfs defaults 0 0
 UUID=831262a0-5ebb-494f-b101-9ebbd7de5db6 /media/samba2 xfs defaults 0 0
 UUID=22cf7ba0-5177-44cd-a1ec-9d1c63cdcd8a /media/samba3 xfs defaults 0 0
+
+/dev/starwars/vader /media/vader xfs defaults 0 0
